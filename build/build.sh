@@ -1,3 +1,4 @@
+#!/bin/bash
 
 export build_dir=`dirname $0`
 export root_dir=`cd ${build_dir}/..; pwd`
